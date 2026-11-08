@@ -1,8 +1,10 @@
-# ModVege-WN: Daily Pasture Growth and Harvest Simulation
+# ModVege-WN: Daily Pasture Growth with Water and Nitrogen Constraints
 
 A small, installable Python implementation of a daily pasture growth model
-adapted from ModVege (Jouven, Carrère and Baumont, 2006). It estimates four above-ground dry-matter
-pools, leaf area, soil-water status, and biomass removed by cutting.
+adapted from ModVege (Jouven, Carrère and Baumont, 2006). WN denotes water
+availability and nitrogen nutrition constraints. The model estimates four
+above-ground dry-matter pools, leaf area, soil-water status, and biomass
+removed by cutting.
 
 **Status:** experimental implementation, version 0.1.0. The package has not yet
 been independently evaluated against observational data. It uses a **fixed
