@@ -1,4 +1,4 @@
-# ModVege-WN
+# ModVege-WN: Daily Pasture Growth and Harvest Simulation
 
 A small, installable Python implementation of a daily pasture growth model
 adapted from ModVege (Jouven, Carrère and Baumont, 2006). It estimates four above-ground dry-matter
